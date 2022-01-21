@@ -1,0 +1,131 @@
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe.config
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.pdb
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.xml
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbprojAssemblyReference.cache
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resources.resources
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.GenerateResource.cache
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.CoreCompileInputs.cache
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.exe
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.xml
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.pdb
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Accueil.resources
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Taquin.resources
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Récapitulatif.resources
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Lose.resources
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Win.resources
+C:\Users\layfr\source\repos\Projet IHM Taquin cylindrique\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Aide.resources
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe.config
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.pdb
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.xml
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbprojAssemblyReference.cache
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Aide.resources
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Accueil.resources
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Lose.resources
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resources.resources
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Niveau.resources
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Récapitulatif.resources
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Taquin.resources
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Win.resources
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.GenerateResource.cache
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.CoreCompileInputs.cache
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.exe
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.xml
+E:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.pdb
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe.config
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.pdb
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.xml
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbprojAssemblyReference.cache
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Aide.resources
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Accueil.resources
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Lose.resources
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resources.resources
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Niveau.resources
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Récapitulatif.resources
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Taquin.resources
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Win.resources
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.GenerateResource.cache
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.CoreCompileInputs.cache
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.exe
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.xml
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.pdb
+G:\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resoudre.resources
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe.config
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.pdb
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.xml
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbprojAssemblyReference.cache
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Aide.resources
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Crédit.resources
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Accueil.resources
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Lose.resources
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resources.resources
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Niveau.resources
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resoudre.resources
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Récapitulatif.resources
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Taquin.resources
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Win.resources
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.GenerateResource.cache
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.CoreCompileInputs.cache
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.exe
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.xml
+C:\Users\gilles\Desktop\Projet IHM Taquin cylindrique v1\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.pdb
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe.config
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.pdb
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.xml
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbprojAssemblyReference.cache
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Aide.resources
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Accueil.resources
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Lose.resources
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resources.resources
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Niveau.resources
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resoudre.resources
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Récapitulatif.resources
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Taquin.resources
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Win.resources
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.GenerateResource.cache
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.CoreCompileInputs.cache
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.exe
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.xml
+C:\Users\layfr\Desktop\Projet IHM Taquin cylindrique v2\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.pdb
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe.config
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.pdb
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.xml
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbprojAssemblyReference.cache
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Aide.resources
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Accueil.resources
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Lose.resources
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resources.resources
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Niveau.resources
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resoudre.resources
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Récapitulatif.resources
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Taquin.resources
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Win.resources
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.GenerateResource.cache
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.CoreCompileInputs.cache
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.exe
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.xml
+C:\Users\layfr\Desktop\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.pdb
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe.config
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.exe
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.pdb
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\bin\Debug\Projet IHM Taquin cylindrique.xml
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbprojAssemblyReference.cache
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Aide.resources
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Accueil.resources
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Lose.resources
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resources.resources
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Niveau.resources
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Resoudre.resources
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Récapitulatif.resources
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Taquin.resources
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet_IHM_Taquin_cylindrique.Win.resources
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.GenerateResource.cache
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.vbproj.CoreCompileInputs.cache
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.exe
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.xml
+D:\PROJET\Projet IHM Taquin cylindrique LAY DRAY 102\Projet IHM Taquin cylindrique\obj\Debug\Projet IHM Taquin cylindrique.pdb
